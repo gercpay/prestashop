@@ -14,7 +14,7 @@ class GercPayCls
     const RESPONSE_TYPE_REVERSE = 'reverse';
     const RESPONSE_TYPE_PAYMENT = 'payment';
 
-    const URL = 'https://api.gercpay.com.ua/';
+    const URL = 'https://api.gercpay.com.ua/api/';
 
     /**
      * @var string[]
